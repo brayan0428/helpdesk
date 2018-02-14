@@ -1,0 +1,9 @@
+C:\Users\bllanos\Documents\FUENTES\HelpDesk\ProHelpDesk\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\bllanos\Documents\FUENTES\HelpDesk\ProHelpDesk\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\bllanos\Documents\FUENTES\HelpDesk\ProHelpDesk\Biblioteca\bin\Debug\Biblioteca.xml
+C:\Users\bllanos\Documents\FUENTES\HelpDesk\ProHelpDesk\Biblioteca\obj\Debug\Biblioteca.vbprojResolveAssemblyReference.cache
+C:\Users\bllanos\Documents\FUENTES\HelpDesk\ProHelpDesk\Biblioteca\obj\Debug\Biblioteca.Resources.resources
+C:\Users\bllanos\Documents\FUENTES\HelpDesk\ProHelpDesk\Biblioteca\obj\Debug\Biblioteca.vbproj.GenerateResource.Cache
+C:\Users\bllanos\Documents\FUENTES\HelpDesk\ProHelpDesk\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\bllanos\Documents\FUENTES\HelpDesk\ProHelpDesk\Biblioteca\obj\Debug\Biblioteca.xml
+C:\Users\bllanos\Documents\FUENTES\HelpDesk\ProHelpDesk\Biblioteca\obj\Debug\Biblioteca.pdb

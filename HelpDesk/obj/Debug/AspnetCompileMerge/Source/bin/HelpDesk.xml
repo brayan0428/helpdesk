@@ -1,0 +1,127 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HelpDesk
+</name>
+</assembly>
+<members>
+<member name="T:HelpDesk.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:HelpDesk.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:HelpDesk.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:HelpDesk.My.Resources.Resources.Email_AutorizacionJefe">
+<summary>
+  Busca una cadena traducida similar a &lt;div id=&quot;:no&quot; class=&quot;ii gt m1544eb6eeeec2e27 adP adO&quot;&gt;
+    &lt;div id=&quot;:nk&quot; class=&quot;a3s aXjCH&quot;&gt;
+        &lt;u&gt;&lt;/u&gt;
+        &lt;div style=&quot;background-color: #f6f6f6&quot;&gt;
+            &lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+
+                &lt;tbody&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&quot;center&quot; height=&quot;0&quot;&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;
+                            &lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;  [resto de la cadena truncado]&quot;;.
+</summary>
+</member>
+<member name="P:HelpDesk.My.Resources.Resources.Email_CitacionTickets">
+<summary>
+  Busca una cadena traducida similar a &lt;div id=&quot;:no&quot; class=&quot;ii gt m1544eb6eeeec2e27 adP adO&quot;&gt;
+    &lt;div id=&quot;:nk&quot; class=&quot;a3s aXjCH&quot;&gt;
+        &lt;u&gt;&lt;/u&gt;
+        &lt;div style=&quot;background-color: #f6f6f6&quot;&gt;
+            &lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+
+                &lt;tbody&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&quot;center&quot; height=&quot;0&quot;&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;
+                            &lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;  [resto de la cadena truncado]&quot;;.
+</summary>
+</member>
+<member name="P:HelpDesk.My.Resources.Resources.Email_NuevoSeguimiento">
+<summary>
+  Busca una cadena traducida similar a &lt;div id=&quot;:no&quot; class=&quot;ii gt m1544eb6eeeec2e27 adP adO&quot;&gt;
+    &lt;div id=&quot;:nk&quot; class=&quot;a3s aXjCH&quot;&gt;
+        &lt;u&gt;&lt;/u&gt;
+        &lt;div style=&quot;background-color: #f6f6f6&quot;&gt;
+            &lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+
+                &lt;tbody&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&quot;center&quot; height=&quot;0&quot;&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;
+                            &lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;  [resto de la cadena truncado]&quot;;.
+</summary>
+</member>
+<member name="P:HelpDesk.My.Resources.Resources.Email_NuevoTicket">
+<summary>
+  Busca una cadena traducida similar a &lt;div id=&quot;:no&quot; class=&quot;ii gt m1544eb6eeeec2e27 adP adO&quot;&gt;
+    &lt;div id=&quot;:nk&quot; class=&quot;a3s aXjCH&quot;&gt;
+        &lt;u&gt;&lt;/u&gt;
+        &lt;div style=&quot;background-color: #f6f6f6&quot;&gt;
+            &lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+
+                &lt;tbody&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&quot;center&quot; height=&quot;0&quot;&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;
+                            &lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;  [resto de la cadena truncado]&quot;;.
+</summary>
+</member>
+<member name="P:HelpDesk.My.Resources.Resources.Email_Reasignar">
+<summary>
+  Busca una cadena traducida similar a &lt;div id=&quot;:no&quot; class=&quot;ii gt m1544eb6eeeec2e27 adP adO&quot;&gt;
+    &lt;div id=&quot;:nk&quot; class=&quot;a3s aXjCH&quot;&gt;
+        &lt;u&gt;&lt;/u&gt;
+        &lt;div style=&quot;background-color: #f6f6f6&quot;&gt;
+            &lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tbody&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&quot;center&quot; height=&quot;0&quot;&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;
+                            &lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot; al [resto de la cadena truncado]&quot;;.
+</summary>
+</member>
+<member name="P:HelpDesk.My.Resources.Resources.Email_TicketAsignado">
+<summary>
+  Busca una cadena traducida similar a &lt;div id=&quot;:no&quot; class=&quot;ii gt m1544eb6eeeec2e27 adP adO&quot;&gt;
+    &lt;div id=&quot;:nk&quot; class=&quot;a3s aXjCH&quot;&gt;
+        &lt;u&gt;&lt;/u&gt;
+        &lt;div style=&quot;background-color: #f6f6f6&quot;&gt;
+            &lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+
+                &lt;tbody&gt;
+                    &lt;tr&gt;
+                        &lt;td align=&quot;center&quot; height=&quot;0&quot;&gt;&lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td&gt;
+                            &lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;  [resto de la cadena truncado]&quot;;.
+</summary>
+</member>
+</members>
+</doc>
